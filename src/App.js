@@ -246,7 +246,7 @@ function App() {
 
     return (
         <div className='container'>
-            {/* upload file section */}
+           
             <div className='form'>
                 <form
                     className='form-group'
